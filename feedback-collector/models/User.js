@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
-const UserSchema = new Schema({
+const userSchema = new Schema({
     googleId: String,
     credits: {
         type: Number,
@@ -9,4 +9,4 @@ const UserSchema = new Schema({
     }
 });
 
-mongoose.model('users', UserSchema);
+mongoose.model('users', userSchema);

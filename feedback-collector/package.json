@@ -25,6 +25,7 @@
     "passport-google-oauth20": "^1.0.0",
     "nodemon": "^1.11.0",
     "mongoose": "^4.11.1",
+    "sendgrid": "^5.1.2",
     "stripe": "^4.23.1"
   }
 }

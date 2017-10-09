@@ -4,5 +4,7 @@ module.exports = {
     mongoURI: 'ccc-ccc-ccc',
     cookieKey: 'ddd-ddd-ddd',
     stripePublishableKey: 'eee-eee-eee',
-    stripeSecretKey: 'fff-fff-fff'
+    stripeSecretKey: 'fff-fff-fff',
+    sendGripKey: 'ggg-ggg-ggg',
+    redirectDomain: 'eee-eee-eee'
 };
